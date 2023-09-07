@@ -128,54 +128,6 @@ tp_le_gouvernement/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\tp_le_gouvernement.dir\build.make CMakeFiles/tp_le_gouvernement.dir/build
 .PHONY : tp_le_gouvernement/fast
 
-Charly.obj: Charly.c.obj
-.PHONY : Charly.obj
-
-# target to build an object file
-Charly.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\tp_le_gouvernement.dir\build.make CMakeFiles/tp_le_gouvernement.dir/Charly.c.obj
-.PHONY : Charly.c.obj
-
-Charly.i: Charly.c.i
-.PHONY : Charly.i
-
-# target to preprocess a source file
-Charly.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\tp_le_gouvernement.dir\build.make CMakeFiles/tp_le_gouvernement.dir/Charly.c.i
-.PHONY : Charly.c.i
-
-Charly.s: Charly.c.s
-.PHONY : Charly.s
-
-# target to generate assembly for a file
-Charly.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\tp_le_gouvernement.dir\build.make CMakeFiles/tp_le_gouvernement.dir/Charly.c.s
-.PHONY : Charly.c.s
-
-Jules.obj: Jules.c.obj
-.PHONY : Jules.obj
-
-# target to build an object file
-Jules.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\tp_le_gouvernement.dir\build.make CMakeFiles/tp_le_gouvernement.dir/Jules.c.obj
-.PHONY : Jules.c.obj
-
-Jules.i: Jules.c.i
-.PHONY : Jules.i
-
-# target to preprocess a source file
-Jules.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\tp_le_gouvernement.dir\build.make CMakeFiles/tp_le_gouvernement.dir/Jules.c.i
-.PHONY : Jules.c.i
-
-Jules.s: Jules.c.s
-.PHONY : Jules.s
-
-# target to generate assembly for a file
-Jules.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\tp_le_gouvernement.dir\build.make CMakeFiles/tp_le_gouvernement.dir/Jules.c.s
-.PHONY : Jules.c.s
-
 main.obj: main.c.obj
 .PHONY : main.obj
 
@@ -209,12 +161,6 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... tp_le_gouvernement
-	@echo ... Charly.obj
-	@echo ... Charly.i
-	@echo ... Charly.s
-	@echo ... Jules.obj
-	@echo ... Jules.i
-	@echo ... Jules.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

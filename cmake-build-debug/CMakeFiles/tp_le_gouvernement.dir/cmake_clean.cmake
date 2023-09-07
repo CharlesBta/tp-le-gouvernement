@@ -1,8 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/tp_le_gouvernement.dir/Charly.c.obj"
-  "CMakeFiles/tp_le_gouvernement.dir/Charly.c.obj.d"
-  "CMakeFiles/tp_le_gouvernement.dir/Jules.c.obj"
-  "CMakeFiles/tp_le_gouvernement.dir/Jules.c.obj.d"
   "CMakeFiles/tp_le_gouvernement.dir/main.c.obj"
   "CMakeFiles/tp_le_gouvernement.dir/main.c.obj.d"
   "libtp_le_gouvernement.dll.a"

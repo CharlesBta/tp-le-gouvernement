@@ -82,51 +82,19 @@ CMakeFiles/tp_le_gouvernement.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/tp_le_gouvernement.dir/main.c.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\jules.botte-magalha\Documents\GitHub\tp-le-gouvernement\main.c -o CMakeFiles\tp_le_gouvernement.dir\main.c.s
 
-CMakeFiles/tp_le_gouvernement.dir/Jules.c.obj: CMakeFiles/tp_le_gouvernement.dir/flags.make
-CMakeFiles/tp_le_gouvernement.dir/Jules.c.obj: C:/Users/jules.botte-magalha/Documents/GitHub/tp-le-gouvernement/Jules.c
-CMakeFiles/tp_le_gouvernement.dir/Jules.c.obj: CMakeFiles/tp_le_gouvernement.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jules.botte-magalha\Documents\GitHub\tp-le-gouvernement\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/tp_le_gouvernement.dir/Jules.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/tp_le_gouvernement.dir/Jules.c.obj -MF CMakeFiles\tp_le_gouvernement.dir\Jules.c.obj.d -o CMakeFiles\tp_le_gouvernement.dir\Jules.c.obj -c C:\Users\jules.botte-magalha\Documents\GitHub\tp-le-gouvernement\Jules.c
-
-CMakeFiles/tp_le_gouvernement.dir/Jules.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/tp_le_gouvernement.dir/Jules.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\jules.botte-magalha\Documents\GitHub\tp-le-gouvernement\Jules.c > CMakeFiles\tp_le_gouvernement.dir\Jules.c.i
-
-CMakeFiles/tp_le_gouvernement.dir/Jules.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/tp_le_gouvernement.dir/Jules.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\jules.botte-magalha\Documents\GitHub\tp-le-gouvernement\Jules.c -o CMakeFiles\tp_le_gouvernement.dir\Jules.c.s
-
-CMakeFiles/tp_le_gouvernement.dir/Charly.c.obj: CMakeFiles/tp_le_gouvernement.dir/flags.make
-CMakeFiles/tp_le_gouvernement.dir/Charly.c.obj: C:/Users/jules.botte-magalha/Documents/GitHub/tp-le-gouvernement/Charly.c
-CMakeFiles/tp_le_gouvernement.dir/Charly.c.obj: CMakeFiles/tp_le_gouvernement.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\jules.botte-magalha\Documents\GitHub\tp-le-gouvernement\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/tp_le_gouvernement.dir/Charly.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/tp_le_gouvernement.dir/Charly.c.obj -MF CMakeFiles\tp_le_gouvernement.dir\Charly.c.obj.d -o CMakeFiles\tp_le_gouvernement.dir\Charly.c.obj -c C:\Users\jules.botte-magalha\Documents\GitHub\tp-le-gouvernement\Charly.c
-
-CMakeFiles/tp_le_gouvernement.dir/Charly.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/tp_le_gouvernement.dir/Charly.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\jules.botte-magalha\Documents\GitHub\tp-le-gouvernement\Charly.c > CMakeFiles\tp_le_gouvernement.dir\Charly.c.i
-
-CMakeFiles/tp_le_gouvernement.dir/Charly.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/tp_le_gouvernement.dir/Charly.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\jules.botte-magalha\Documents\GitHub\tp-le-gouvernement\Charly.c -o CMakeFiles\tp_le_gouvernement.dir\Charly.c.s
-
 # Object files for target tp_le_gouvernement
 tp_le_gouvernement_OBJECTS = \
-"CMakeFiles/tp_le_gouvernement.dir/main.c.obj" \
-"CMakeFiles/tp_le_gouvernement.dir/Jules.c.obj" \
-"CMakeFiles/tp_le_gouvernement.dir/Charly.c.obj"
+"CMakeFiles/tp_le_gouvernement.dir/main.c.obj"
 
 # External object files for target tp_le_gouvernement
 tp_le_gouvernement_EXTERNAL_OBJECTS =
 
 tp_le_gouvernement.exe: CMakeFiles/tp_le_gouvernement.dir/main.c.obj
-tp_le_gouvernement.exe: CMakeFiles/tp_le_gouvernement.dir/Jules.c.obj
-tp_le_gouvernement.exe: CMakeFiles/tp_le_gouvernement.dir/Charly.c.obj
 tp_le_gouvernement.exe: CMakeFiles/tp_le_gouvernement.dir/build.make
 tp_le_gouvernement.exe: CMakeFiles/tp_le_gouvernement.dir/linkLibs.rsp
 tp_le_gouvernement.exe: CMakeFiles/tp_le_gouvernement.dir/objects1.rsp
 tp_le_gouvernement.exe: CMakeFiles/tp_le_gouvernement.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\jules.botte-magalha\Documents\GitHub\tp-le-gouvernement\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable tp_le_gouvernement.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\jules.botte-magalha\Documents\GitHub\tp-le-gouvernement\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable tp_le_gouvernement.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\tp_le_gouvernement.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

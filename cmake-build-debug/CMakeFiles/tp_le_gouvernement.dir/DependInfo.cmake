@@ -8,8 +8,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/jules.botte-magalha/Documents/GitHub/tp-le-gouvernement/Charly.c" "CMakeFiles/tp_le_gouvernement.dir/Charly.c.obj" "gcc" "CMakeFiles/tp_le_gouvernement.dir/Charly.c.obj.d"
-  "C:/Users/jules.botte-magalha/Documents/GitHub/tp-le-gouvernement/Jules.c" "CMakeFiles/tp_le_gouvernement.dir/Jules.c.obj" "gcc" "CMakeFiles/tp_le_gouvernement.dir/Jules.c.obj.d"
   "C:/Users/jules.botte-magalha/Documents/GitHub/tp-le-gouvernement/main.c" "CMakeFiles/tp_le_gouvernement.dir/main.c.obj" "gcc" "CMakeFiles/tp_le_gouvernement.dir/main.c.obj.d"
   )
 

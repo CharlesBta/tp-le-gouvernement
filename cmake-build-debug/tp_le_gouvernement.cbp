@@ -76,12 +76,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/jules.botte-magalha/Documents/GitHub/tp-le-gouvernement/Charly.c">
-			<Option target="tp_le_gouvernement"/>
-		</Unit>
-		<Unit filename="C:/Users/jules.botte-magalha/Documents/GitHub/tp-le-gouvernement/Jules.c">
-			<Option target="tp_le_gouvernement"/>
-		</Unit>
 		<Unit filename="C:/Users/jules.botte-magalha/Documents/GitHub/tp-le-gouvernement/main.c">
 			<Option target="tp_le_gouvernement"/>
 		</Unit>
