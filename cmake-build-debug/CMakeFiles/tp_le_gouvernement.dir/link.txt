@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\tp_le_gouvernement.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\tp_le_gouvernement.dir/objects.a @CMakeFiles\tp_le_gouvernement.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\tp_le_gouvernement.dir/objects.a -Wl,--no-whole-archive -o tp_le_gouvernement.exe -Wl,--out-implib,libtp_le_gouvernement.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tp_le_gouvernement.dir\linkLibs.rsp
